@@ -4,7 +4,7 @@ Repo for Woovi fullstack challenge
 
 ## :rocket: Technologies
 
-###This project was developed with the following technologies:
+### This project was developed with the following technologies:
 
 - [React][reactjs]
 - [TypeScript][typescript]
