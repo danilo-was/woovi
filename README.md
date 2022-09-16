@@ -2,7 +2,7 @@
 
 Repo for Woovi fullstack challenge
 
-## :rocket: Technologies
+## Technologies
 
 ### This project was developed with the following technologies:
 
